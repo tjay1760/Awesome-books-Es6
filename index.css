@@ -200,10 +200,11 @@ footer {
 .contact-ul {
   list-style-type: circle;
 }
-.date{
-    width: auto;
-    height:20px;
-    z-index:5;
-    margin-top: 8%;
-    margin-left: 80%;
+
+.date {
+  width: auto;
+  height: 20px;
+  z-index: 5;
+  margin-top: 8%;
+  margin-left: 80%;
 }
